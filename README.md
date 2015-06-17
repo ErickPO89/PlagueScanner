@@ -31,9 +31,9 @@ IP =
 ```
 
 The scanners used were the following:
-ClamAV: http://www.clamav.net/index.html
-ESET: http://www.eset.com/us/business/server-antivirus/file-security-linux/
-Bitdefender: http://www.bitdefender.com/business/antivirus-for-unices.html
+1. ClamAV: http://www.clamav.net/index.html
+2. ESET: http://www.eset.com/us/business/server-antivirus/file-security-linux/
+3. Bitdefender: http://www.bitdefender.com/business/antivirus-for-unices.html
 
 **Note**: The Trend Micro agent is missing the regex. This will be fixed shortly.
 
